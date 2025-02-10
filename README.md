@@ -2,13 +2,13 @@
 - Carlos Héctor Castañeda Ramírez
 - castr@uaz.edu.mx
 
-## Actividad 1
-- Programa 1
-- Programa 2
-
 ## Actividad 2
-- Programa 3
-- Programa 4
-- Programa 5
-- Programa 6
+- p001-hola-mundo
+- p002-area-circulo
+- p003-area-triangulo 
+- p004-paga-trabajador
+
+
+
+
 
